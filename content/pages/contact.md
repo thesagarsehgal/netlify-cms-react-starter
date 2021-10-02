@@ -1,7 +1,7 @@
 ---
-title: Contact us
-subtitle: ''
-featuredImage: '/images/uploads/mark-chang-74-3.jpg'
+title: Contact us over here
+featuredImage: /images/uploads/mark-chang-74-3.jpg
+subtitle: contact us
 address: 404 James St, Burleigh Heads QLD 4220
 phone: 0987 123 456
 email: example@example.com
